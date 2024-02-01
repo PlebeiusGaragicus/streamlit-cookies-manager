@@ -2,6 +2,6 @@
 *.pyo
 node_modules/
 
-# /dist/
-/streamlit_cookies_manager/build/
+/dist/
+# /streamlit_cookies_manager/build/
 venv/
